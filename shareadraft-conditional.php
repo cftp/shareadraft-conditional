@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Share a Draft conditional
+Plugin Name: Share a Draft Conditional
 Plugin URI: http://wordpress.org/extend/plugins/shareadraft-conditional/
-Description: A conditional template tag/filter to identify Share A Draft shared drafts.
+Description: A conditional template tag/filter to identify Share A Draft shared drafts, and show messages and functionality to the people you're sharing with.
 Author: simonwheatley
 Version: 1.0
 Author URI: http://codeforthepeople.com/
